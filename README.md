@@ -6,7 +6,7 @@ My name is Alexander also known as Beebsis Online. I'm a young student from Denm
 
 ## Skills and Experience
 * ⚛️ ReactJS
-* 💻HTML, CSS, JS PHP
+* 💻HTML, CSS, JS, PHP
 * 🗄️SQL, JSON
 
 - 🔭 I’m currently working on focusining more on backend instead of front-end, in order to become more flexible.  
@@ -21,9 +21,7 @@ My name is Alexander also known as Beebsis Online. I'm a young student from Denm
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=beebsis)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beebsis)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=beebsis&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beebsis)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=beebsis&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=beebsis)  
 
