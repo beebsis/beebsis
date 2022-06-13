@@ -1,6 +1,7 @@
 ![UX/UI, Design & Development](https://mir-s3-cdn-cf.behance.net/project_modules/fs/333c5a73116977.5c059cc9ab3d6.gif)
 ### Hi there, I'm Beebsis
 #### UX/UI, Design & Development
+![Profile views](https://gpvc.arturio.dev/beebsis)  
 
 My name is Alexander also known as Beebsis Online. I'm a young student from Denmark who is currently working on his Education to become a Data-Technician programmer. I enjoy learning languages and frameworks like React, Experss, Nodejs, PhP and so on. I really enjoy working with UX/UI and design in general..
 
@@ -26,7 +27,3 @@ My name is Alexander also known as Beebsis Online. I'm a young student from Denm
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=beebsis)  
 
 ![GitHub metrics](https://metrics.lecoq.io/beebsis)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=beebsis)  
-
-![Profile views](https://gpvc.arturio.dev/beebsis)  
