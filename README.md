@@ -5,9 +5,8 @@
 My name is Alexander also known as Beebsis Online. I'm a young student from Denmark who is currently working on his Education to become a Data-Technician programmer. I enjoy learning languages and frameworks like React, Experss, Nodejs, PhP and so on. I really enjoy working with UX/UI and design in general..
 
 ## Skills and Experience
-* [<img src='https://github.com/beebsis/beebsis/blob/main/react-img.svg' alt='github' height='40'>] React JS
-
-https://github.com/beebsis/beebsis/blob/main/react-img.svg
+* [<img src='react-img.svg' alt='github' height='40'>]
+* 
 Skills: REACT / JS / HMTL / CSS / PHP / SQL
 
 - 🔭 I’m currently working on focusining more on backend instead of front-end, in order to become more flexible.  
