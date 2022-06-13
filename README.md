@@ -12,7 +12,7 @@ Skills: REACT / JS / HMTL / CSS / PHP / SQL
 - ⚡ Fun fact: A home-cook who loves his small spices in the window 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/beebsis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/beebsis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/BeebsisOfficial)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/beebsis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/beebsis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40' style="color: white;">](https://codepen.io/BeebsisOfficial)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=beebsis)](https://github.com/ryo-ma/github-profile-trophy)
 
