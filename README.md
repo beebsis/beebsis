@@ -1,24 +1,24 @@
-![UX/UI, Design & Development](https://mir-s3-cdn-cf.behance.net/project_modules/fs/333c5a73116977.5c059cc9ab3d6.gif)
-![Profile views](https://gpvc.arturio.dev/beebsis)
-### Hi there, I'm Beebsis
-#### UX/UI, Design & Development  
+# Hi, I'm Beebsis
+Data Technician graduate specializing in web development, with a focus on building practical systems that connect tools, workflows, and communities.
 
-My name is Alexander also known as Beebsis Online. I'm a from Denmark who is currently working on his Education to become a Data-Technician programmer. I enjoy learning languages and frameworks like React, Experss, Nodejs, PhP and so on. I really enjoy working with UX/UI and design in general..
+## About me
+I'm a big believer of owning your things, games, movies, self-hosting, open-source. Which is why in the big year of 2026, I've decided to go all in.
+Very much do I enjoy fantasy, reading, cooking, music and video games. These are all great things to me and mean a lot.
 
-## Skills and Experience
-* ⚛️ ReactJS, NodeJS, Svelte
-* 💻HTML, CSS, JS, PHP
-* 🗄️SQL, JSON
+I'm aiming to move to a more back-end focus, meanwhile still keeping my full-stack abilities. 
 
-- 🔭 I’m currently working on focusining more on backend instead of front-end, in order to become more flexible.  
-- 🌱 Currently doing wordpress, tanstack and svelte related things
-- 📫 How to reach me: beebsis@beebsis.dev
-- ⚡ Fun fact: A home-cook who loves his small spices in the window 
+### Technical Background
+- Frontend: HTML, CSS, JavaScript, Svelte, React
+- Backend: Node.js, PHP
+- Data: SQL, JSON
+- Currently exploring: TypeScript, TanStack
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=beebsis)](https://github.com/ryo-ma/github-profile-trophy)
+## Projects
+| **STATE** | **Project** | **Description** | **Link** | **Type** |
+| --------- | ----------- | --------------- | -------- | -------- | 
+| **In Progress** | **Enchantress** | Stream toolkit collective | TBA | Self-hosted or Service | 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beebsis)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=beebsis&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=beebsis)  
-
-![GitHub metrics](https://metrics.lecoq.io/beebsis)  
+** I’m actively working with:** 
+- Homelab environments
+- k3s (Kubernetes)
+- Aiming to switch to NixOS
