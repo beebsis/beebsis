@@ -18,7 +18,5 @@ I'm aiming to move to a more back-end focus, meanwhile still keeping my full-sta
 | --------- | ----------- | --------------- | -------- | -------- | 
 | **In Progress** | **Enchantress** | Stream toolkit collective | TBA | Self-hosted or Service | 
 
-**I’m actively working with:** 
-- Homelab environments
-- k3s (Kubernetes)
-- Aiming to switch to NixOS
+**I’m actively working on:** 
+- Homelab & Enchantress
